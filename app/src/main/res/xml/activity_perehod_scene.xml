@@ -8,7 +8,11 @@
         motion:constraintSetStart="@id/start"
         motion:duration="1000">
        <KeyFrameSet>
+
        </KeyFrameSet>
+        <OnClick
+            motion:clickAction="toggle"
+            motion:targetId="@+id/imageView10"/>
     </Transition>
 
     <ConstraintSet android:id="@+id/start">
