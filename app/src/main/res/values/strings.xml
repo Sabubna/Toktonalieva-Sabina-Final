@@ -21,4 +21,10 @@
     <string name="potassium">Potassium</string>
     <string name="rich_in_vitamin_a_c_and_b3">Rich in Vitamin A, C and B3</string>
     <string name="_145_cal">145 cal</string>
+    <string name="select_user">Select User -</string>
+    <string name="morkovka">morkovka</string>
+    <string name="select_user_user_1">Select User - User 1</string>
+    <string name="user_1">User 1</string>
+    <string name="_125">125</string>
+    <string name="_2_52">2.52</string>
 </resources>
